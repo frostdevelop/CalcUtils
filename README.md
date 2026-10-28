@@ -1,2 +1,2 @@
 # CalcUtils
-Some utility programs for ti calculators
+Some utility programs for different calculators!
